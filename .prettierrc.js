@@ -4,7 +4,7 @@ module.exports = {
   singleQuote: true,
   printWidth: 90,
   tabWidth: 2,
-  jsxBracketSameLine: true,
+  bracketSameLine: true,
   endOfLine: 'auto',
 };
 
@@ -14,7 +14,7 @@ module.exports = {
 //   "embeddedLanguageFormatting": "auto",
 //   "htmlWhitespaceSensitivity": "css",
 //   "insertPragma": false,
-//   "jsxBracketSameLine": false,
+//   "bracketSameLine": false,
 //   "jsxSingleQuote": false,
 //   "proseWrap": "preserve",
 //   "quoteProps": "as-needed",
