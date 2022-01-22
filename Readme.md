@@ -1,4 +1,4 @@
-# React typescript starter project
+# React typescript starter project using Vite
 
 ## Get Started
 
