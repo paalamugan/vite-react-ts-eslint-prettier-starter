@@ -1,4 +1,4 @@
-import './App.scss';
+import '@app/styles/App.scss';
 
 import Header from '@app/components/Header';
 import { ReactElement, useState } from 'react';

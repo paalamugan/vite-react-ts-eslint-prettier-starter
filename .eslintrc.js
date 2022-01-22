@@ -9,7 +9,7 @@ module.exports = {
     'plugin:react/recommended',
     'plugin:jsx-a11y/recommended',
     'plugin:@typescript-eslint/recommended',
-    'plugin:prettier/recommended', // Make sure this is always the last element in the array.
+    'plugin:prettier/recommended'
   ],
   parser: '@typescript-eslint/parser',
   parserOptions: {
@@ -32,7 +32,7 @@ module.exports = {
     },
   },
   rules: {
-    // here we can change any rule "off/error/warn"
+    // Here we can change any rule "off/error/warn"
     'prettier/prettier': [
       'error',
       {},

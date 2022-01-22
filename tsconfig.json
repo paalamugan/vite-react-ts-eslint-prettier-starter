@@ -23,6 +23,6 @@
       "#types/*": ["./types/*"]
     }
   },
-  "include": ["./src"],
+  "include": ["./src", "./types/vite-env.d.ts"],
   "exclude": ["node_modules"]
 }
